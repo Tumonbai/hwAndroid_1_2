@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "hwAndroid_1_2"
